@@ -1,0 +1,157 @@
+# Training sentences. Words starting with * are English (EN); all others are Vietnamese (VI).
+# One sentence per line. Lines starting with # are comments.
+Hôm nay mình có *deadline nên phải *rush lắm
+Cái *project này *deadline thứ sáu mà *team chưa ai làm gì hết
+Tối nay đi ăn không mình hơi *bored
+Bạn gửi mình cái *link *zoom được không
+Mình mới mua cái *laptop mới xài *smooth lắm
+Sáng nay mình bị *late *class vì kẹt xe
+Cái *quiz hôm qua khó quá mình *fail rồi
+Đừng quên *submit bài trước nửa đêm nha
+Anh ấy là *manager của mình ở công ty
+Mình đang *busy lát nữa *call lại nha
+Cuối tuần này *team mình có *meeting online
+Món này *spicy quá mình ăn không nổi
+Mẹ mình nấu phở ngon nhất *ever *just *kidding
+Mình thấy bộ phim đó hơi *boring
+Bạn có *free tối nay không
+Nhớ *check *email trước khi đi ngủ nha
+Mình cần *update cái *resume để *apply *internship
+Cô giáo cho thêm *extra *credit nếu làm bài tập
+Hôm qua mình đi *shopping ở *mall với chị
+Cái áo này *size nhỏ quá
+Em *order trà sữa ít đường nha
+Cả nhà đi *vacation ở Đà Lạt
+Mình *crush bạn đó lâu rồi mà không dám nói
+Thôi *whatever mình không quan tâm nữa
+Bạn *text cho mình địa chỉ đi
+Ông bà mình không biết xài *smartphone
+Mình đang học *machine *learning khó thật sự
+Cái *app này hay bị *crash lắm
+Tuần sau thi *final rồi mà chưa học gì
+Mình *stress quá không ngủ được
+Bạn đó *nice lắm luôn
+Đi *gym xong mệt muốn xỉu
+Cho mình xin cái *password *wifi
+Mình *recommend quán này cho mọi người
+Anh *share cái *file lên *drive giùm em
+Ê *guys tối nay đi *karaoke không
+Hôm nay trời nóng quá
+Mình rất thích đọc sách vào buổi tối
+Con chó nhà mình rất dễ thương
+Bố mẹ mình sống ở Sài Gòn
+Mình đi chợ mua rau và thịt
+Năm nay mình học năm hai đại học
+Bạn ăn cơm chưa
+Trời mưa to quá không đi đâu được
+Cái bàn này to quá không để vừa phòng
+Mẹ mình làm y tá ở bệnh viện
+Con mèo đang ngủ trên ghế
+Em gái mình mới vào lớp một
+Chúng ta nên đi sớm để tránh kẹt xe
+Mình muốn học tiếng Anh cho giỏi
+Nhà mình có ba người
+Ông nội mình năm nay tám mươi tuổi
+Cuối tuần mình hay về quê thăm ông bà
+*I *think *we *should *leave *now
+*This *class *is *so *hard
+*Can *you *send *me *the *notes
+*My *mom *made *pasta *for *dinner
+*The *exam *is *on *Friday
+*Let's *meet *at *the *library *after *lunch
+*I *forgot *my *charger *at *home
+*She *is *really *good *at *math
+*We *need *to *finish *the *slides *tonight
+*Do *you *want *to *grab *coffee
+Mình *agree với bạn nhưng mà vẫn hơi *risky
+Cái *plan này *okay đó làm đi
+Tụi mình *vote đi chỗ nào
+Sếp nói phải *double *check số liệu
+Cái *game này *addictive quá chơi hoài
+Bạn *follow mình trên *instagram chưa
+Mình mới đăng cái *post mới nè
+Video đó *viral lắm luôn
+*Honestly mình thấy không cần thiết
+*Basically là mình phải làm lại từ đầu
+*Anyway mai gặp nha
+Mình *feel không khỏe lắm
+Nhìn bạn *cute ghê
+Cái *vibe quán này *chill thật
+Ăn *pizza hay ăn bún bò
+Mình thích uống *latte hơn cà phê đen
+Tối qua coi *Netflix tới hai giờ sáng
+Mình *forget mất cái *homework rồi
+Thầy cho *assignment mới nhiều quá
+Bạn *join nhóm *chat của lớp chưa
+Mình *sorry nha tại mình *busy quá
+Đợi mình năm phút mình *ready liền
+Mình *save tiền để mua *iphone mới
+Chị mình làm *marketing ở công ty nước ngoài
+Anh mình làm *software *engineer
+Mình đang tìm *job *part *time
+Lương *job này *okay nhưng xa nhà
+Mình bị *ghost rồi buồn ghê
+Ai *available thì *reply trong *group nha
+Mình *upload hình lên rồi đó
+Cái *camera điện thoại này chụp đẹp
+Bạn cần *help gì không
+Mình *miss Việt Nam quá
+*Weekend này có *plan gì chưa
+Mình cảm thấy hơi *awkward khi gặp người lạ
+Nhớ mang *jacket nha trời lạnh đó
+Mình *promise lần sau sẽ đến đúng giờ
+Bài *presentation của nhóm mình *perfect luôn
+Mình đang *download phim về coi
+Cái *headphone này *bass mạnh lắm
+Bạn thích *team nào trong *World *Cup
+Mình *enjoy công việc này lắm
+Đó là *best *friend của mình
+Mình thấy *outfit hôm nay của bạn đẹp
+Cái này *expensive quá mua không nổi
+Được *discount năm mươi phần trăm luôn
+Để mình *google thử xem
+Bạn *screenshot gửi mình coi với
+Mình *confused quá không hiểu bài
+Cô giải thích lại phần *recursion được không ạ
+*Code chạy không được bị *bug hoài
+Mình phải *fix cái *error này trước khi *push lên
+*Professor nói *office *hours vào thứ ba
+Mình có *appointment với bác sĩ lúc ba giờ
+Đi *Target mua đồ dùng học tập
+Mình *move qua *Florida được hai năm rồi
+Ở *Tampa trời *humid lắm
+Mình đang *apply *visa cho ba mẹ qua chơi
+Mẹ mình nói tiếng Anh không *fluent lắm
+Ba mình hay xem tin tức buổi sáng
+Hôm nay mình *skip bữa sáng
+Mình hơi *nervous trước buổi phỏng vấn
+Cảm ơn bạn đã *support mình
+*Congrats nha bạn giỏi quá
+Chúc mừng sinh nhật bạn nha
+*Happy *birthday nha chúc bạn vui vẻ
+Mình *literally không hiểu gì luôn
+Đừng *spoil phim cho mình nha
+Mình *binge hết phần một trong một đêm
+Bạn ấy *talented thật sự
+Cái đó *random quá
+Tụi nó *drama quá trời
+Mình *block nó luôn rồi
+*Okay vậy mai mình gặp ở thư viện
+Mình *prefer học buổi sáng hơn
+Bạn có thể *explain lại được không
+Nhóm mình chia việc *fair lắm
+Mình phụ trách phần *data còn bạn làm phần *slides
+Mình *print bài ra để đọc
+Cái *printer ở thư viện bị hư
+Mình *late *rent tháng này rồi
+Chủ nhà nói phải trả tiền *rent trước ngày một
+Đi *grocery mua sữa với trứng
+Siêu thị này có bán nước mắm không
+Hôm nay mình nấu canh chua cá lóc
+Mình đặt *Uber về nhà
+Xe *bus hôm nay tới trễ
+Mình *park xe ở đâu được
+Nhớ đeo *seatbelt nha con
+Con *text mẹ khi tới nơi nha
+Mẹ ơi con *ok mẹ đừng lo
+Bà ngoại gửi đồ ăn qua cho con

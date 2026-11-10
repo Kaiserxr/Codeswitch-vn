@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+# Third-party data: do not commit, download it yourself (see README)
+data/canvec/
